@@ -153,7 +153,7 @@ background: #DFC2F2;
 .btn {
 	transform: translateY(0px);
 	transition: 0.3s linear;
-	background: #49C608;
+	background: #7c7c7b;
 	border-radius: 5px;
   position: relative;
   overflow: hidden;
