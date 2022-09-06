@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import Cart from "./Cart";
-const NavBarReact = (props) => {
+const NavBarReact = () => {
 
     return ( 
         <>
