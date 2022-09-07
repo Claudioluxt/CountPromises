@@ -1,15 +1,16 @@
 import './App.css';
-import NavBar from './componets/NavBar';
-import ItemListConteiner from '../src/container/ItemListContainer';
-import { data } from './utils/data';
+import ItemDetail from './componets/ItemDetail';
 import ItemDetailConteiner from './componets/ItemDetailConteiner';
+import NavBar from './componets/NavBar';
+
 
 
 function App() {
   return (
    <>
    <NavBar/>
-  <ItemDetail/>
+   
+   <ItemDetailConteiner/>
    </>
     );
 }

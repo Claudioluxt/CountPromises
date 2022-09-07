@@ -28,8 +28,6 @@ const NavBarReact = () => {
 export default NavBarReact;
 
 const Navbar = styled.div`
-
-
 h2{
     color: #f4f4f4;
     font-weight: 400;
@@ -47,6 +45,5 @@ a{
     text-decoration: none;
     margin-right: 1rem;  
  }
-
  
 `

@@ -12,13 +12,13 @@ export const data = [
     },
     {
         id:2,
-        name:'agua con gas',
+        name:'Bonaqua Sin Gas',
         price: "$180",
         stock:4,
         href:"#",
         min: 1,
         imige: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wDye-jRsO9wfiZZEJJzu-2Z0lsxqCL6hILDMoq7jl8scfkHQ9pVUmfjukqBEEca8irk&usqp=CAU',
-        categoryId: 'sin alchool'
+        categoryId: 'agua mineral natual sin gas'
 
     },
     {
